@@ -1,0 +1,6 @@
+framework module Pods_App_MVVM_RxSwift_Frameworks__git {
+  umbrella header "Pods-App-MVVM-RxSwift-Frameworks-.git-umbrella.h"
+
+  export *
+  module * { export * }
+}
